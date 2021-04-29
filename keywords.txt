@@ -1,0 +1,14 @@
+FDC1004	KEYWORD1
+begin	KEYWORD2
+
+setupSingleMeasurement			KEYWORD2
+setupDifferentialMeasurement		KEYWORD2
+getRawData				KEYWORD2
+getCapacitance				KEYWORD2
+startRepeatMeasurement			KEYWORD2
+getRepeatRawData			KEYWORD2
+getRepeatCapacitance			KEYWORD2
+setOffsetCalibration			KEYWORD2
+getOffsetCalibration			KEYWORD2
+setGainCalibration			KEYWORD2
+getGainCalibration			KEYWORD2
