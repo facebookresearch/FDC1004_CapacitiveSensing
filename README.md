@@ -6,4 +6,4 @@ This is an Arduino library for FDC1004 capacitive sensing board from Texas Instr
 
 Please see the included License.md for more information.
 
-Distributed as-is; no warranty is given.on
+Distributed as-is; no warranty is given.
